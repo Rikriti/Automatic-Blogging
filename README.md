@@ -1,5 +1,5 @@
 # Automatic Blog Generation
-For live site visit [Automatic Blogging]([https://github.com/Rikriti/Automatic-Blogging](https://automatic-blogging.onrender.com/))
+For live site visit [Automatic Blogging]([https://github.com/Rikriti/Automatic-Blogging](https://automatic-blogging.onrender.com/)
 
 This project leverages **Hugging Face Transformers** and **Streamlit** to automatically generate detailed blog posts based on a given topic using a pre-trained GPT-2 model. The user can input a topic, and the app generates a well-structured blog entry about it.
 
